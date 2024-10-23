@@ -17,7 +17,7 @@ CryptoChart is a web application that displays live Ethereum cryptocurrency data
    cd proxy
 
    Run the backend server:
-    node proxy.js```
+    node proxy.js
    
  ### Frontend
 1. Navigate to the `client` folder.
